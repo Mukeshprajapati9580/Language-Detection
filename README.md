@@ -33,7 +33,7 @@ Language-Detection/
 
 Clone the repository:
 
-git clone YOUR_GITHUB_REPOSITORY_URL
+git clone https://github.com/Mukeshprajapati9580/Language-Detection
 
 
 Install the required libraries:
